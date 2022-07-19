@@ -9,7 +9,6 @@
   <img align="center" alt="Thy-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Thy-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Thy-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Thy-pic" height="150" style="border-radius:50px;" src="blob:https://discord.com/51cde3de-826f-4e47-84b3-843b7d4c15ce">
 </div>
 
 ##
