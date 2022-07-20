@@ -11,7 +11,7 @@
   <img align="center" alt="Thy-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Thy-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Thy-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="right" alt="Thy-pic" height="150" style="border-radius:50px;"blob:https://discord.com/1adc2d12-3415-498d-aa72-211c3921a07f.png">
+   <img align="right" alt="Thy-pic" height="150" src="https://user-images.githubusercontent.com/109612013/180022926-bec9a754-f2d6-46c0-9bd9-fdde9e5886a9.gif">
 </div>
 
 ##
